@@ -20,5 +20,8 @@
   "homepage": "https://github.com/jmcnally17/notes-app#readme",
   "dependencies": {
     "jest": "^28.0.3"
+  },
+  "devDependencies": {
+    "jest-environment-jsdom": "^28.0.2"
   }
 }
